@@ -1,0 +1,24 @@
+{
+  "name": "main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+
+    "dev": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/inkognit/server2.git"
+  },
+  "keywords": [
+    "123"
+  ],
+  "author": "michael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inkognit/server2/issues"
+  },
+  "homepage": "https://github.com/inkognit/server2#readme"
+
+}
